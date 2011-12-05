@@ -1,0 +1,1 @@
+ipmitool -H 10.17.57.248 -U ADMIN -P ADMIN  chassis power on

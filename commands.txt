@@ -1,0 +1,2 @@
+rpm -Uhv ftp://ftp.univie.ac.at/systems/linux/fedora/epel/6/i386/python-kombu-1.1.3-1.el6.noarch.rpm
+yum install euca2ools openstack-nova-node-full
